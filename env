@@ -1,0 +1,4 @@
+#!/bin/sh
+export DOCKER_IMAGE_NAME="diegopasten_test"
+export DOCKER_IP="10.0.2.15"
+export DOCKER_PORT="8000"
